@@ -1,2 +1,2 @@
-# apple-leaf-detection-sgd-
+# apple-leaf-detection-sgd
 My Final Report 
